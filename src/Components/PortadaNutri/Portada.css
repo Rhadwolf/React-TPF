@@ -1,0 +1,27 @@
+.contenedor {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: url(https://selecciones.com.mx/wp-content/uploads/2016/09/conceptos-de-nutricion.jpg);
+}
+
+.contenedor-contenedor {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.contenedor h1 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.contenedor p {
+    font-size: 60px;
+    color: white;
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px black;
+}

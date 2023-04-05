@@ -1,0 +1,41 @@
+
+.header { background-color: black;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.header__container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header__logo {
+  margin: 20px;
+  max-width: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  
+}
+
+.navbar__link {
+  color: darkgoldenrod;
+  font-size: 30px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+
